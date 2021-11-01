@@ -1,7 +1,9 @@
 import sys
 import heapq
 
-N=int(input())
+N=int(input()) 
+
+
 
 heap=[]
 
